@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **nicubarbaros/nicubarbaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 👋 Hello, I'm Nicu !
+I'm a web developer in Chisinau, Moldova. Front End Enthusiast, Content Creator at [Web Unlocked](https://www.youtube.com/channel/UClIOzonVaoiNvO503pNExCg) youtube channel and Software Engineer 
+[Planable](https://planable.io/). Also I bake bread.
+
+💖 [Support me with a coffee](https://buymeacoffee.com/nicubarbaros)
+
+<!--
+### 😄 About me 
+- 🔭 I'm working to improve gaming platform at EXNOA LLC.
+- 🌱 I’m learning GraphQL, React and TypeScript.
+-->
+### 🌎 Find me on the web
+- 🐦 Tweeting my journey on [Twitter](https://twitter.com/nicubarbaros)
+- 🎬 Creating content on [YouTube](https://www.youtube.com/channel/UClIOzonVaoiNvO503pNExCg)
+
+### 📫 Get in touch
+- 📧 You can reach me at [Twitter](https://twitter.com/nicubarbaros) or [Linkedin](https://www.linkedin.com/in/nicubarbaros/)
