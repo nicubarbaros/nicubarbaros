@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 ## 👋 Hello, I'm Nicu !
-I'm a web developer in Chisinau, Moldova. Front End Enthusiast, Content Creator at [Web Unlocked](https://www.youtube.com/channel/UClIOzonVaoiNvO503pNExCg) youtube channel and Software Engineer 
+I'm a web developer in Chisinau, Moldova. Front End Enthusiast, Content Creator at [Web Unlocked](https://www.youtube.com/channel/UClIOzonVaoiNvO503pNExCg) youtube channel and Lead Product Engineer 
 [Planable](https://planable.io/). Also I bake bread.
 
 💖 [Support me with a coffee](https://buymeacoffee.com/nicubarbaros)
