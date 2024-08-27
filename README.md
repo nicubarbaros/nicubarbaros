@@ -33,4 +33,5 @@ I'm a [Product Engineer](https://planable.io/) based in Chisinau, Moldova, with 
 - 📧 You can reach me at [Twitter](https://twitter.com/nicubarbaros) or [Linkedin](https://www.linkedin.com/in/nicubarbaros/)
 
 
-[CV](https://github.com/user-attachments/files/16767716/Nicu.Barbaros.Lead.Front.End.Engineer.pdf)
+### More about me
+[PDF](https://github.com/user-attachments/files/16767716/Nicu.Barbaros.Lead.Front.End.Engineer.pdf)
