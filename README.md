@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 
 ## 👋 Hello, I'm Nicu !
-I'm a web developer in Chisinau, Moldova. Front End Enthusiast, Content Creator at [Web Unlocked](https://www.youtube.com/channel/UClIOzonVaoiNvO503pNExCg) youtube channel and Lead Product Engineer 
-[Planable](https://planable.io/). Also I bake bread.
+I'm a [Product Engineer](https://planable.io/) based in Chisinau, Moldova, with a strong passion for front-end development, Content Creator at [Web Unlocked](https://www.youtube.com/channel/UClIOzonVaoiNvO503pNExCg) YouTube channel. Also I bake bread.
 
 💖 [Support me with a coffee](https://buymeacoffee.com/nicubarbaros)
 
@@ -34,4 +33,4 @@ I'm a web developer in Chisinau, Moldova. Front End Enthusiast, Content Creator 
 - 📧 You can reach me at [Twitter](https://twitter.com/nicubarbaros) or [Linkedin](https://www.linkedin.com/in/nicubarbaros/)
 
 
-[Nicu Barbaros Lead Front End Engineer.pdf](https://github.com/user-attachments/files/16767716/Nicu.Barbaros.Lead.Front.End.Engineer.pdf)
+[CV](https://github.com/user-attachments/files/16767716/Nicu.Barbaros.Lead.Front.End.Engineer.pdf)
