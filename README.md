@@ -32,3 +32,6 @@ I'm a web developer in Chisinau, Moldova. Front End Enthusiast, Content Creator 
 
 ### 📫 Get in touch
 - 📧 You can reach me at [Twitter](https://twitter.com/nicubarbaros) or [Linkedin](https://www.linkedin.com/in/nicubarbaros/)
+
+
+[Nicu Barbaros Lead Front End Engineer.pdf](https://github.com/user-attachments/files/16767716/Nicu.Barbaros.Lead.Front.End.Engineer.pdf)
